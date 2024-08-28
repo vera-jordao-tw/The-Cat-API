@@ -10,7 +10,7 @@
 - [3. Arquivos](#3-arquivos)
 - [4. Como usar](#4-como-usar)
 - [5. Pré-requisitos](#5-pré-requisitos)
-- [6. Documentação criada por :octocat:](#7-documentação-criada-por)
+- [6. Documentação criada por :octocat:](#6-documentação-criada-por)
 
 <br>
 
@@ -27,7 +27,7 @@ Mostrar como a documentação de APIs complementa o swagger e traz informações
 ## 3. Arquivos
 A documentação completa dos 3 endpoints está organizada no arquivo:
 
-:small_orange_diamond: [Sobre o Pix](Sobre%20o%20Pix.md)
+:small_orange_diamond: [Endpoints](endpoints.md)
 
 <br>
 
