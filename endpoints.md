@@ -10,7 +10,7 @@ Neste arquivo voccê conheerá cada endpoint, as formas de requisição e os exe
 - [1. Post/images/upload](#1-post/images/upload)
 - [2. GET/images](#2-get-images)
 - [3. GET/images/{image_id}](#3-get-images_id)
-- [4. DEL/images/{image_id}](#4-del/images/image_id)
+- [4. DEL/images/{image_id}](#4-del/images/image-id)
 
 <br>
 
