@@ -7,7 +7,7 @@ Neste arquivo voccê conheerá cada endpoint, as formas de requisição e os exe
 <br>
 
 ## Tabela de Conteúdo
-- [1. Post/images/upload](#1-post-images-upload)
+- [1. Post/images/upload](#1-post/images/upload)
 - [2. GET/images](#2-get-images)
 - [3. GET/images/{image_id}](#3-get-images-id)
 - [4. DEL/images/{image_id}](#4-del-images-image-id)
