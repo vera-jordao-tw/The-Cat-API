@@ -15,7 +15,7 @@
 <br>
 
 ## 1. Descrição do Projeto
-Este repositório contém a documentação de 3 endpoints de uma APIs. Usamos como exemplo APIs públicas.
+Este repositório contém a documentação de 4 endpoints de uma APIs. Usamos como exemplo APIs públicas.
 
 <br>
 
