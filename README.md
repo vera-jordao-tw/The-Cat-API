@@ -48,7 +48,7 @@ Com nossas APIs, você poderá:
 
 <br>
 
-# 5. Pré-requisitos
+## 5. Pré-requisitos
 
 1. **Autenticação**
 É **obrigatório** obter a **API Key**.
