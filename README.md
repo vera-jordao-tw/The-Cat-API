@@ -4,23 +4,23 @@
 
 <br>
 
+## 1. Descrição do Projeto
+Este repositório contém a documentação de 4 endpoints de uma APIs. Usamos como exemplo APIs públicas.
+
+<br>
+
 ## Tabela de Conteúdo
 - [1. Descrição do Projeto](#1-descrição-do-projeto)
 - [2. Objetivo](#2-objetivo)
 - [3. Arquivos](#3-arquivos)
 - [4. Como usar](#4-como-usar)
 - [5. Pré-requisitos](#5-pré-requisitos)
-- [6. Documentação criada por :octocat:](#6-documentação-criada-por) 
-
-<br>
-
-## 1. Descrição do Projeto
-Este repositório contém a documentação de 4 endpoints de uma APIs. Usamos como exemplo APIs públicas.
+- [6. Documentação criada por :octocat:](#6-documentação-criada-por ) 
 
 <br>
 
 ## 2. Objetivo
-Mostrar como a documentação de APIs complementa o swagger e traz informações relevantes à pessoa desenvolvedora.
+Mostrar como a documentação de APIs traz informações relevantes à pessoa desenvolvedora e é um complemento ao swagger.
 
 <br>
 
