@@ -5,7 +5,7 @@
 <br>
 
 ## 1. Descrição do Projeto
-Este repositório contém a documentação de 4 endpoints de uma APIs. Usamos como exemplo APIs públicas.
+Este repositório contém a documentação de 4 endpoints de uma API de catálogo de gatos. Usamos como exemplo APIs públicas.
 
 <br>
 
@@ -20,7 +20,7 @@ Este repositório contém a documentação de 4 endpoints de uma APIs. Usamos co
 <br>
 
 ## 2. Objetivo
-Mostrar como a documentação de APIs traz informações relevantes à pessoa desenvolvedora e é um complemento ao swagger.
+Mostrar como a documentação de API traz informações relevantes à pessoa desenvolvedora e é um complemento ao swagger.
 
 <br>
 
@@ -44,7 +44,7 @@ Com nossas APIs, você poderá:
 <br>
 
 > [!WARNING]
-> O objeto **_images_** armazena os arquivos de imagens de gatos enviados. Imagens sem gatos ou imagens impróprias serão rejeitadas.
+> O objeto **_images_** armazena os arquivos de imagens de gatos enviados. Rejeitaremos imagens sem gatos ou imagens impróprias.
 
 <br>
 
@@ -68,7 +68,7 @@ Para obter a **API Key**, siga estas etapas:
 4. Selecione o tipo de projeto
 5. Clique em SUBMIT
 
-Você receberá sua API Key no e-mail informado.
+Você receberá sua API Key no seu e-mail informado.
 
 <br>
 
